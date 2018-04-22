@@ -9,3 +9,6 @@ class Dog
    @name
  end
 end
+
+fido.name = "Fido"
+puts fido.name
